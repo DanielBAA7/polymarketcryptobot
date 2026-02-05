@@ -1,6 +1,0 @@
-{
-    "include": ["src", "main.py"],
-    "extraPaths": ["."],
-    "pythonVersion": "3.11",
-    "typeCheckingMode": "basic"
-}
